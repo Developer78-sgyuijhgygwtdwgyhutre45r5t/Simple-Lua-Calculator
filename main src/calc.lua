@@ -32,7 +32,7 @@ end
 if modemul == true then
 io.write("Enter First number to multiply!")
 local mul1 = io.read("*n")
-print(sub1,"Is the first digit!")
+print(mul1,"Is the first digit!")
 print(" ")
 print("Enter 2nd degit!")
 local mul2 = io.read("*n")
